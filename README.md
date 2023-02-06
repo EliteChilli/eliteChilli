@@ -15,9 +15,7 @@
 
 **About Me**
 
-- 🔌 I'm studying Electrical Engineering at Federal University of Pernambuco
-
-- 👨🏻‍💻 I’m currently learning about Front-End
+- 🔌 I'm a graduate of Electrical Engineer from Federal University of Pernambuco
 
 - 💼 Let's get in touch [🔗Mail me](mailto:danilobezek@gmail.com)
 
